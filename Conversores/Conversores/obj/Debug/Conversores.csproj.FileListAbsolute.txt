@@ -1,0 +1,7 @@
+C:\Users\David\Downloads\orueba2\Conversores\Conversores\obj\Debug\Conversores.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\orueba2\Conversores\Conversores\obj\Debug\Conversores.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\orueba2\Conversores\Conversores\bin\Debug\Conversores.exe.config
+C:\Users\David\Downloads\orueba2\Conversores\Conversores\bin\Debug\Conversores.exe
+C:\Users\David\Downloads\orueba2\Conversores\Conversores\bin\Debug\Conversores.pdb
+C:\Users\David\Downloads\orueba2\Conversores\Conversores\obj\Debug\Conversores.exe
+C:\Users\David\Downloads\orueba2\Conversores\Conversores\obj\Debug\Conversores.pdb
