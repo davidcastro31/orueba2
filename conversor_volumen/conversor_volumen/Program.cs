@@ -26,7 +26,7 @@ namespace conversor_volumen
 
 
             // Nombres de las unidades
-            String[] unidades = { "Mililitro", "litro", "Centrimetros cubico", "Metro cubico", "Galones EE.UU", "Pinta EE.UU", "Onza liquida EE.UU", "Un cuarto de galon EE.UU", "Pie cubico ", "Pulgada cubica" };
+            String[] unidades = { "Mililitro", "litro", "Centrimetros cubico", "Metro cubico", "Galones EE.UU", "Pinta EE.UU", "Onza EE.UU", "Un cuarto de galon EE.UU", "Pie cubico ", "Pulgada cubica" };
 
             // Ejemplo de conversión
             Console.WriteLine("Conversión de unidades de volumen:");
