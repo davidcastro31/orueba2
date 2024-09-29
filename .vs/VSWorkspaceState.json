@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Conversores",
+    "\\Conversores\\Conversores"
   ],
-  "SelectedNode": "\\prueba2.sln",
+  "SelectedNode": "\\Conversores\\Conversores\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
